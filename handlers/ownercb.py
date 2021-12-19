@@ -16,7 +16,7 @@ def is_that_owner(func):
     
     return ownermelol
 
-OWNER_TEXT = " Please select option from below buttons \n\n ~ @Xmarty_Support"
+OWNER_TEXT = " Please select option from below buttons \n\n ~ @RITISHAWORLDSSR"
 
 OWNER_HELPCB=InlineKeyboardMarkup(
             [
@@ -118,7 +118,7 @@ async def cbunbans(_, query: CallbackQuery):
 
  - This will unban user with User ID: `1234567891`
 
-Made with ❤️ by **@Xmarty_Support**""",
+Made with ❤️ by **@RITISHAWORLDSSR**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
@@ -215,14 +215,14 @@ async def cbherokufuncs(_, query: CallbackQuery):
 **Examples:**
      1. Set New Config Vars,
       - `/setvar THUMB_URL https://telegra.ph/file/0bb51f04fa6fe2252c945.jpg`
-       This will Update `THUMB_URL` variable with `https://telegra.ph/file/0bb51f04fa6fe2252c945.jpg` as Value
+       This will Update `THUMB_URL` variable with `https://telegra.ph/file/b7ad210015a8223e93909.jpg` as Value
      
      2. Delete Config Vars,
       - `/delvar THUMB_URL`
        This will delete variable named  `THUMB_URL`
 
 
-Made with ❤️ by **@Xmarty_Support**""",
+Made with ❤️ by **@RITISHAWORLDSSR**""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
